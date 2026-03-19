@@ -1,14 +1,6 @@
 # 🌐 Multi-Agent Hedge Fund
 
-```text
-    __ __         __              ______                __
-   / // /__  ____/ /___ ____     / ____/_  ______  ____/ /
-  / __  / _ \/ __  / __ `/ _ \   / /_  / / / / __ \/ __  / 
- / / / /  __/ /_/ / /_/ /  __/  / __/ / /_/ / / / / /_/ /  
-/_/ /_/\___/\__,_/\__, /\___/  /_/    \__,_/_/ /_/\__,_/   
-                 /____/                                    
-           Autonomous Multi-Agent Alpha Engine
-```
+![Multi-Agent Hedge Fund Banner](./banner.svg)
 
 An autonomous algorithmic trading system leveraging a collaborative multi-agent architecture to synthesize sentiment, mathematical rigor, and risk management across global equity markets.
 
